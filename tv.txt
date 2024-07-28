@@ -1,4 +1,30 @@
 央视频道,#genre#
+CCTV1综合,http://pixman.taoiptv.com/tptv/G_CCTV-1-AVS-4K264?type=origin
+CCTV2财经,http://pixman.taoiptv.com/tptv/G_CCTV-2-HD-265-8M?type=origin
+CCTV3综艺,http://pixman.taoiptv.com/tptv/G_CCTV-3-AVS-4K264?type=origin
+CCTV4中文国际,http://pixman.taoiptv.com/tptv/G_CCTV-4-HD-265-8M?type=origin
+CCTV5体育,http://pixman.taoiptv.com/tptv/G_CCTV-5-AVS-4K264?type=origin
+CCTV5+体育赛事,http://pixman.taoiptv.com/tptv/G_CCTV-5PLUS-HD-265-8M?type=origin
+CCTV6电影,http://pixman.taoiptv.com/tptv/G_CCTV-6-AVS-4K264?type=origin
+CCTV7国防军事,http://pixman.taoiptv.com/tptv/G_CCTV-7-HD-265-8M?type=origin
+CCTV8电视剧,http://pixman.taoiptv.com/tptv/G_CCTV-8-AVS-4K264?type=origin
+CCTV9纪录,http://pixman.taoiptv.com/tptv/G_CCTV-9-HD-265-8M?type=origin
+CCTV10科教,http://pixman.taoiptv.com/tptv/G_CCTV-10-HD-265-8M?type=origin
+CCTV11戏曲,http://pixman.taoiptv.com/tptv/H265-5500k-1080P-cctv11?type=origin
+CCTV12社会与法,http://pixman.taoiptv.com/tptv/G_CCTV-12-HD-265-8M?type=origin
+CCTV13新闻,http://pixman.taoiptv.com/tptv/G_CCTV-13-HD-265-8M?type=origin
+CCTV14少儿,http://pixman.taoiptv.com/tptv/G_CCTV-14-CQ?type=origin
+CCTV15音乐,http://pixman.taoiptv.com/tptv/H265-5500k-1080P-cctv15?type=origin
+CCTV16奥林匹克,http://pixman.taoiptv.com/tptv/G_CCTV-16-CQ?type=origin
+CCTV17农业农村,http://pixman.taoiptv.com/tptv/G_CCTV-17-CQ?type=origin
+CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV4K,http://pixman.taoiptv.com/tptv/G_CCTV-4K-HD?type=origin
+
+
+
+
+
+
 CCTV1综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -105,6 +131,16 @@ CCTV17农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com
 CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-1,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000481/index.m3u8?key=tvbox6_com
 
+CCTV世界地理,http://pixman.taoiptv.com/tptv/G_SHIJIEDL-CQ?type=origin
+CCTV风云剧场,http://pixman.taoiptv.com/tptv/G_FENGYUNJC-CQ?type=origin
+CCTV风云音乐,http://pixman.taoiptv.com/tptv/G_FENGYUNYY-CQ?type=origin
+CCTV兵器科技,http://pixman.taoiptv.com/tptv/G_BINGQIKJ-CQ?type=origin
+CCTV第一剧场,http://pixman.taoiptv.com/tptv/G_DIYIJC-CQ?type=origin
+CCTV怀旧剧场,http://pixman.taoiptv.com/tptv/G_HUAIJIUJC-CQ?type=origin
+
+
+
+
 CCTV兵器科技,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
 CCTV第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
 CCTV世界地理,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
@@ -115,17 +151,39 @@ CCTV第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380
 CCTV风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 CCTV世界地理,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
 
-CCTV世界地理,http://pixman.taoiptv.com/tptv/G_SHIJIEDL-CQ?cdn=tptv1
-CCTV风云剧场,http://pixman.taoiptv.com/tptv/G_FENGYUNJC-CQ?cdn=tptv1
-CCTV风云音乐,http://pixman.taoiptv.com/tptv/G_FENGYUNYY-CQ?cdn=tptv1
-CCTV兵器科技,http://pixman.taoiptv.com/tptv/G_BINGQIKJ-CQ?cdn=tptv1
-CCTV女性时尚,http://pixman.taoiptv.com/tptv/G_NVXINGSS-CQ?cdn=tptv1
-CCTV第一剧场,http://pixman.taoiptv.com/tptv/G_DIYIJC-CQ?cdn=tptv1
-CCTV怀旧剧场,http://pixman.taoiptv.com/tptv/G_HUAIJIUJC-CQ?cdn=tptv1
 
 
 
 卫视频道,#genre#
+江苏卫视,http://pixman.taoiptv.com/tptv/G_JIANGSU-HD-265-8M?type=origin
+东方卫视,http://pixman.taoiptv.com/tptv/G_DONGFANG-HD-265-8M?type=origin
+北京卫视,http://pixman.taoiptv.com/tptv/G_BEIJING-HD-265-8M?type=origin
+广东卫视,http://pixman.taoiptv.com/tptv/G_GUANGDONG-HD-265-8M?type=origin
+山东卫视,http://pixman.taoiptv.com/tptv/G_SHANDONG-HD-265-8M?type=origin
+深圳卫视,http://pixman.taoiptv.com/tptv/G_SHENZHEN-HD-265-8M?type=origin
+湖北卫视,http://pixman.taoiptv.com/tptv/G_HUBEI-HD-265-8M?type=origin
+湖南卫视,http://pixman.taoiptv.com/tptv/G_HUNAN-HD-265-8M?type=origin
+浙江卫视,http://pixman.taoiptv.com/tptv/G_ZHEJIANG-HD-265-8M?type=origin
+黑龙江卫视,http://pixman.taoiptv.com/tptv/G_HEILONGJIANG-HD-265-8M?type=origin
+天津卫视,http://pixman.taoiptv.com/tptv/G_TIANJIN-HD-265-8M?type=origin
+安徽卫视,http://pixman.taoiptv.com/tptv/G_ANHUI-HD-265-8M?type=origin
+辽宁卫视,http://pixman.taoiptv.com/tptv/G_LIAONING-HD-265-8M?type=origin
+东南卫视,http://pixman.taoiptv.com/tptv/H265-5500k-1080P-dongnanstv?type=origin
+吉林卫视,http://pixman.taoiptv.com/tptv/G_JILIN-CQ?type=origin
+四川卫视,http://pixman.taoiptv.com/tptv/G_SICHUAN-CQ?type=origin
+江西卫视,http://pixman.taoiptv.com/tptv/G_JIANGXI-CQ?type=origin
+河北卫视,http://pixman.taoiptv.com/tptv/G_HEBEI-CQ?type=origin
+河南卫视,http://pixman.taoiptv.com/tptv/G_HENAN-CQ?type=origin
+贵州卫视,http://pixman.taoiptv.com/tptv/G_GUIZHOU-CQ?type=origin
+重庆卫视,http://pixman.taoiptv.com/tptv/G_CHONGQING-CQ?type=origin
+云南卫视,http://pixman.taoiptv.com/tptv/G_YUNNAN-HQ?type=origin
+海南卫视,http://pixman.taoiptv.com/tptv/HD-8000k-1080P-lvyoustv?type=origin
+
+
+
+
+
+
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 
 北京卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -424,9 +482,6 @@ ChannenlV,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/417116980?
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 
-CHC动作电影,http://pixman.taoiptv.com/sxg/wqCHCdzdyH265
-CHC高清电影,http://pixman.taoiptv.com/sxg/lnwsCHC-HDH265
-CHC家庭影院,http://pixman.taoiptv.com/sxg/jbtygqCHCjtyyH265
 
 CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
@@ -484,10 +539,12 @@ NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
 星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.1.10:2193
 星空卫视,http://171.108.239.90:8181/tsfile/live/1012_1.m3u8?key=txiptv
 
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVB明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 TVB星河(国),http://php.jdshipin.com:8880/smt.php?id=Xinhe
-
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVB明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 
 自建台,#genre#
 东森幼幼台,http://php.jdshipin.com:8880/xsj.php?id=ebc-yoyo
@@ -514,22 +571,18 @@ NBA TV,http://pixman.taoiptv.com/beesport/NBA_TV_Live_TV
 FOX NEWS,http://pixman.taoiptv.com/beesport/FOX_NEWS_Live_TV
 CNBC,http://pixman.taoiptv.com/beesport/CNBC_Live_TV
 
-熊出没,http://123.6.102.32:11789/tmp/0725/jsyd.php?id=GITV-JS-10.m3u8
-超级飞侠,http://123.6.102.32:11789/tmp/0725/jsyd.php?id=GITV-JS-11.m3u8
-小猪佩奇,http://123.6.102.32:11789/tmp/0725/jsyd.php?id=GITV-JS-12.m3u8
-汪汪队立大功,http://123.6.102.32:11789/tmp/0725/jsyd.php?id=GITV-JS-13.m3u8
-熊出没,http://pixman.taoiptv.com/tptv/GITV-JS-10?cdn=tptv1
-超级飞侠,http://pixman.taoiptv.com/tptv/GITV-JS-11?cdn=tptv1
-小猪佩奇,http://pixman.taoiptv.com/tptv/GITV-JS-12?cdn=tptv1
-汪汪队立大功,http://pixman.taoiptv.com/tptv/GITV-JS-13?cdn=tptv1
+熊出没,http://pixman.taoiptv.com/tptv/GITV-JS-10?type=origin
+超级飞侠,http://pixman.taoiptv.com/tptv/GITV-JS-11?type=origin
+小猪佩奇,http://pixman.taoiptv.com/tptv/GITV-JS-12?type=origin
+汪汪队立大功,http://pixman.taoiptv.com/tptv/GITV-JS-13?type=origin
 灌篮高手,http://live.iill.top/yy.php?id=1382735626
 
-高分电影,http://pixman.taoiptv.com/tptv/GITV-JS-14?cdn=tptv1
-居家健身,http://pixman.taoiptv.com/tptv/GITV-JS-4?cdn=tptv1
-美食美味,http://pixman.taoiptv.com/tptv/GITV-JS-17?cdn=tptv1
-广场舞,http://pixman.taoiptv.com/tptv/GITV-JS-22?cdn=tptv1
-音乐心情,http://pixman.taoiptv.com/tptv/GITV-JS-33?cdn=tptv1
-怀旧MTV,http://pixman.taoiptv.com/tptv/GITV-JS-37?cdn=tptv1
+高分电影,http://pixman.taoiptv.com/tptv/GITV-JS-14?type=origin
+居家健身,http://pixman.taoiptv.com/tptv/GITV-JS-4?type=origin
+美食美味,http://pixman.taoiptv.com/tptv/GITV-JS-17?type=origin
+广场舞,http://pixman.taoiptv.com/tptv/GITV-JS-22?type=origin
+音乐心情,http://pixman.taoiptv.com/tptv/GITV-JS-33?type=origin
+怀旧MTV,http://pixman.taoiptv.com/tptv/GITV-JS-37?type=origin
 
 
 猫和老鼠,http://cfss.cc/cdn/hy/11352879.m3u8
