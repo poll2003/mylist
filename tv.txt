@@ -542,6 +542,85 @@ TVB星河(国),http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 
+台湾,#genre#
+美亚电影台,http://extraott.com:80/live/7921751389/6097373662/5519.m3u8
+龙祥时代,http://extraott.com:80/live/7921751389/6097373662/5513.m3u8
+龙华戏剧,http://extraott.com:80/live/7921751389/6097373662/5514.m3u8
+龙华洋片,http://extraott.com:80/live/7921751389/6097373662/5515.m3u8
+民視第一台,http://extraott.com:80/live/7921751389/6097373662/5517.m3u8
+龙华偶像,http://extraott.com:80/live/7921751389/6097373662/5518.m3u8
+靖天国际台,http://extraott.com:80/live/7921751389/6097373662/5519.m3u8
+台視财经,http://extraott.com:80/live/7921751389/6097373662/5525.m3u8
+好莱坞电影,http://extraott.com:80/live/7921751389/6097373662/5526.m3u8
+大爱2,http://extraott.com:80/live/7921751389/6097373662/5527.m3u8
+民視台湾,http://extraott.com:80/live/7921751389/6097373662/5528.m3u8
+民視,http://extraott.com:80/live/7921751389/6097373662/5530.m3u8
+EYETV,http://extraott.com:80/live/7921751389/6097373662/5533.m3u8
+中天亚洲台,http://extraott.com:80/live/7921751389/6097373662/5540.m3u8
+ELEA影剧,http://extraott.com:80/live/7921751389/6097373662/5542.m3u8
+ELEA影剧,http://extraott.com:80/live/7921751389/6097373662/5546.m3u8
+大爱2,http://extraott.com:80/live/7921751389/6097373662/5547.m3u8
+公視,http://extraott.com:80/live/7921751389/6097373662/5549.m3u8
+公视台语台,http://extraott.com:80/live/7921751389/6097373662/5550.m3u8
+中天亚洲台,http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
+博斯网球,http://extraott.com:80/live/7921751389/6097373662/5556.m3u8
+博斯运动Ⅱ,http://extraott.com:80/live/7921751389/6097373662/5557.m3u8
+博斯魅力,http://extraott.com:80/live/7921751389/6097373662/5558.m3u8
+博斯高球Ⅱ,http://extraott.com:80/live/7921751389/6097373662/5559.m3u8
+博斯高球Ⅰ,http://extraott.com:80/live/7921751389/6097373662/5560.m3u8
+ariang,http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
+中視新闻,http://extraott.com:80/live/7921751389/6097373662/5484.m3u8
+中視,http://extraott.com:80/live/7921751389/6097373662/5485.m3u8
+中視经典,http://extraott.com:80/live/7921751389/6097373662/5486.m3u8
+韩国娱乐台,http://extraott.com:80/live/7921751389/6097373662/5487.m3u8
+龙华电影,http://extraott.com:80/live/7921751389/6097373662/5488.m3u8
+TVBS,http://extraott.com:80/live/7921751389/6097373662/5496.m3u8
+TVBS新闻,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
+中天新闻,http://extraott.com:80/live/7921751389/6097373662/5553.m3u8
+寰宇新闻,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
+台视新闻,http://extraott.com:80/live/7921751389/6097373662/5501.m3u8
+年代新闻,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
+民视新闻,http://extraott.com:80/live/7921751389/6097373662/5529.m3u8
+TVBS新闻,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
+EYE戏剧,http://extraott.com:80/live/7921751389/6097373662/5532.m3u8
+阿里郎,http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
+中天亚洲台,http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
+爱尔达影剧,http://extraott.com:80/live/7921751389/6097373662/5546.m3u8
+卡通,http://extraott.com:80/live/7921751389/6097373662/5510.m3u8
+EYE旅游台,http://extraott.com:80/live/7921751389/6097373662/5533.m3u8
+民视,http://extraott.com:80/live/7921751389/6097373662/5530.m3u8
+民视台湾台,http://extraott.com:80/live/7921751389/6097373662/5528.m3u8
+台视财经,http://extraott.com:80/live/7921751389/6097373662/5525.m3u8
+龙华偶像,http://extraott.com:80/live/7921751389/6097373662/5518.m3u8
+年代电视,http://extraott.com:80/live/7921751389/6097373662/5508.m3u8
+三立都会,http://extraott.com:80/live/7921751389/6097373662/5506.m3u8
+三立台湾,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8
+三立戏剧,http://extraott.com:80/live/7921751389/6097373662/5504.m3u8
+三立综合,http://extraott.com:80/live/7921751389/6097373662/5503.m3u8
+台视,http://extraott.com:80/live/7921751389/6097373662/5502.m3u8
+台视综合台,http://extraott.com:80/live/7921751389/6097373662/5500.m3u8
+TVBS,http://extraott.com:80/live/7921751389/6097373662/5496.m3u8
+龙华电影,http://extraott.com:80/live/7921751389/6097373662/5488.m3u8
+纬来日本,http://extraott.com:80/live/7921751389/6097373662/5495.m3u8
+纬来精彩,http://extraott.com:80/live/7921751389/6097373662/5494.m3u8
+纬来体育,http://extraott.com:80/live/7921751389/6097373662/5492.m3u8
+纬来综合,http://extraott.com:80/live/7921751389/6097373662/5490.m3u8
+纬来戏剧,http://extraott.com:80/live/7921751389/6097373662/5491.m3u8
+纬来戏剧,http://extraott.com:80/live/7921751389/6097373662/5491.m3u8
+纬来电影,http://extraott.com:80/live/7921751389/6097373662/5493.m3u8
+东风37,http://extraott.com:80/live/7921751389/6097373662/5512.m3u8
+民视第一,http://extraott.com:80/live/7921751389/6097373662/5517.m3u8
+靖天国际,http://extraott.com:80/live/7921751389/6097373662/5519.m3u8
+YOYO TV,http://extraott.com:80/live/7921751389/6097373662/473533.m3u8
+SKYLINK TELEVISION 2,http://extraott.com:80/live/7921751389/6097373662/473535.m3u8
+天下卫视,http://extraott.com:80/live/7921751389/6097373662/473536.m3u8
+台视新闻,http://extraott.com:80/live/7921751389/6097373662/473537.m3u8
+东森美洲,http://extraott.com:80/live/7921751389/6097373662/473538.m3u8
+ET FINANCIAL NEWS,http://extraott.com:80/live/7921751389/6097373662/473539.m3u8
+东森美洲戏剧,http://extraott.com:80/live/7921751389/6097373662/473540.m3u8
+
+
+
 自建台,#genre#
 东森幼幼台,http://php.jdshipin.com:8880/xsj.php?id=ebc-yoyo
 MOMO亲子台,http://php.jdshipin.com:8880/xsj.php?id=momo-kids
@@ -595,6 +674,8 @@ CNBC,http://pixman.taoiptv.com/beesport/CNBC_Live_TV
 楚留香新传之影子传奇5-6,https://vip.ffzy-online4.com/20230221/10229_51cd6daf/index.m3u8
 楚留香新传之影子传奇7-8,https://vip.ffzy-online4.com/20230221/10227_98d12d4c/index.m3u8
 楚留香新传之影子传奇9-10,https://vip.ffzy-online4.com/20230221/10227_98d12d4c/index.m3u8
+
+
 
 
 
