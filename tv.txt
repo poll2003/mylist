@@ -475,10 +475,6 @@ ChannenlV,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/417116980?
 
 
 精彩频道,#genre#
-重温经典,http://123.6.102.32:11789/tmp/0725/gzyx.php?id=4c9fa17591dfd8dd736c80e87d6dc72b.m3u8
-重温经典,http://pixman.taoiptv.com/sxg/CWJD_4000
-重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
-重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 
