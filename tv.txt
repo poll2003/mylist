@@ -1,24 +1,27 @@
 央视频道,#genre#
-CCTV1综合,http://pixman.taoiptv.com/tptv/G_CCTV-1-AVS-4K264?type=origin
-CCTV2财经,http://pixman.taoiptv.com/tptv/G_CCTV-2-HD-265-8M?type=origin
-CCTV3综艺,http://pixman.taoiptv.com/tptv/G_CCTV-3-AVS-4K264?type=origin
-CCTV4中文国际,http://pixman.taoiptv.com/tptv/G_CCTV-4-HD-265-8M?type=origin
-CCTV5体育,http://pixman.taoiptv.com/tptv/G_CCTV-5-AVS-4K264?type=origin
-CCTV5+体育赛事,http://pixman.taoiptv.com/tptv/G_CCTV-5PLUS-HD-265-8M?type=origin
-CCTV6电影,http://pixman.taoiptv.com/tptv/G_CCTV-6-AVS-4K264?type=origin
-CCTV7国防军事,http://pixman.taoiptv.com/tptv/G_CCTV-7-HD-265-8M?type=origin
-CCTV8电视剧,http://pixman.taoiptv.com/tptv/G_CCTV-8-AVS-4K264?type=origin
-CCTV9纪录,http://pixman.taoiptv.com/tptv/G_CCTV-9-HD-265-8M?type=origin
-CCTV10科教,http://pixman.taoiptv.com/tptv/G_CCTV-10-HD-265-8M?type=origin
-CCTV11戏曲,http://pixman.taoiptv.com/tptv/H265-5500k-1080P-cctv11?type=origin
-CCTV12社会与法,http://pixman.taoiptv.com/tptv/G_CCTV-12-HD-265-8M?type=origin
-CCTV13新闻,http://pixman.taoiptv.com/tptv/G_CCTV-13-HD-265-8M?type=origin
-CCTV14少儿,http://pixman.taoiptv.com/tptv/G_CCTV-14-CQ?type=origin
-CCTV15音乐,http://pixman.taoiptv.com/tptv/H265-5500k-1080P-cctv15?type=origin
-CCTV16奥林匹克,http://pixman.taoiptv.com/tptv/G_CCTV-16-CQ?type=origin
-CCTV17农业农村,http://pixman.taoiptv.com/tptv/G_CCTV-17-CQ?type=origin
+CCTV1综合,http://tvbox6.com/tv/ysp.php?id=1
+CCTV2财经,http://tvbox6.com/tv/ysp.php?id=2
+CCTV3综艺,http://tvbox6.com/tv/ysp.php?id=3
+CCTV4中文国际,http://tvbox6.com/tv/ysp.php?id=4
+CCTV5体育,http://tvbox6.com/tv/ysp.php?id=5
+CCTV5+体育赛事,http://tvbox6.com/tv/ysp.php?id=6
+CCTV6电影,http://tvbox6.com/tv/ysp.php?id=8
+CCTV7国防军事,http://tvbox6.com/tv/ysp.php?id=9
+CCTV8电视剧,http://tvbox6.com/tv/ysp.php?id=10
+CCTV9纪录,http://tvbox6.com/tv/ysp.php?id=11
+CCTV10科教,http://tvbox6.com/tv/ysp.php?id=12
+CCTV11戏曲,http://tvbox6.com/tv/ysp.php?id=13
+CCTV12社会与法,http://tvbox6.com/tv/ysp.php?id=14
+CCTV13新闻,http://tvbox6.com/tv/ysp.php?id=15
+CCTV14少儿,http://tvbox6.com/tv/ysp.php?id=16
+CCTV15音乐,http://tvbox6.com/tv/ysp.php?id=17
+CCTV16奥林匹克,http://tvbox6.com/tv/ysp.php?id=18
+CCTV16-4K,http://tvbox6.com/tv/ysp.php?id=19
+CCTV17农业农村,http://tvbox6.com/tv/ysp.php?id=20
+CCTV4K,http://tvbox6.com/tv/ysp.php?id=21
+CCTV8K,http://tvbox6.com/tv/ysp.php?id=22
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV4K,http://pixman.taoiptv.com/tptv/G_CCTV-4K-HD?type=origin
+
 
 
 
@@ -131,13 +134,12 @@ CCTV17农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com
 CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-1,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000481/index.m3u8?key=tvbox6_com
 
-CCTV世界地理,http://pixman.taoiptv.com/tptv/G_SHIJIEDL-CQ?type=origin
-CCTV风云剧场,http://pixman.taoiptv.com/tptv/G_FENGYUNJC-CQ?type=origin
-CCTV风云音乐,http://pixman.taoiptv.com/tptv/G_FENGYUNYY-CQ?type=origin
-CCTV兵器科技,http://pixman.taoiptv.com/tptv/G_BINGQIKJ-CQ?type=origin
-CCTV第一剧场,http://pixman.taoiptv.com/tptv/G_DIYIJC-CQ?type=origin
-CCTV怀旧剧场,http://pixman.taoiptv.com/tptv/G_HUAIJIUJC-CQ?type=origin
-
+CCTV世界地理,http://tvbox6.com/tv/ysp.php?id=32
+CCTV风云剧场,http://tvbox6.com/tv/ysp.php?id=26
+CCTV风云音乐,http://tvbox6.com/tv/ysp.php?id=27
+CCTV兵器科技,http://tvbox6.com/tv/ysp.php?id=23
+CCTV第一剧场,http://tvbox6.com/tv/ysp.php?id=24
+CCTV怀旧剧场,http://tvbox6.com/tv/ysp.php?id=25
 
 
 
