@@ -509,6 +509,12 @@ CHC家庭影院,http://iptviptv.site:9694/hls/700/index.m3u8
 CHC动作电影,http://iptviptv.site:9694/hls/701/index.m3u8
 CHC影迷电影,http://iptviptv.site:9694/hls/702/index.m3u8
 
+
+CHC家庭影院,http://150.138.8.143/00/SNM/CHANNEL00002028/index.m3u8
+CHC影迷电影,http://150.138.8.143/00/SNM/CHANNEL00002029/index.m3u8
+CHC动作电影,http://150.138.8.143/00/SNM/CHANNEL00002030/index.m3u8
+
+
 欢笑剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
 都市剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
